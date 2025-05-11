@@ -50,4 +50,4 @@ Stephanie Grafia
 -Presentation
 
 Deployed URL
-(https://nextjs-final-proj.vercel.app/)
+(https://nextjs-webtech.vercel.app/)
